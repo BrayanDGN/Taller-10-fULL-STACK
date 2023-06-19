@@ -50,7 +50,7 @@
           <p>
             Punto 4 5 6: Proyecto conexión Base de datos
           </p>
-          <a href="./punto-5-6-7">
+          <a href="./Punto-5-6-7/index.php">
             Proyecto Demo
           </a>
         </li>

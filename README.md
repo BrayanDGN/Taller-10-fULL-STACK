@@ -13,3 +13,5 @@
 <H2>Punto 5,6,7:  </H2>
   <h3> 5- BASE DE DATOS</h3>
     <img src="./Public/images/MySQL.png" alt="MySQL">
+  <h3> 6- CONEXION BASE DE DATOS</h3>
+    <img src="./Public/images/Connection.png" alt="Connection">
