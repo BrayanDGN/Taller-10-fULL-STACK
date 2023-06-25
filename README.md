@@ -15,3 +15,5 @@
     <img src="./Public/images/MySQL.png" alt="MySQL">
   <h3> 6- CONEXION BASE DE DATOS</h3>
     <img src="./Public/images/Connection.png" alt="Connection">
+  <h3> 7- MUESTRA DE DATOS EN PANTALLA</h3>
+    <img src="./Public/images/Visualizacion.png" alt="Visualización">
