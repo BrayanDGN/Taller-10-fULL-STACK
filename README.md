@@ -7,6 +7,8 @@
         <p>Profesor:  Cristian Patiño</p>
 
 <H2>Punto 1:  </H2>
+  <h3> 1- CALCULADORA</h3>
+    <img src="./Public/images/Point1.png" alt="Calculator">
 <H2>Punto 2:  </H2>
 <H2>Punto 3:  </H2>
 <H2>Punto 4:  </H2>

@@ -18,7 +18,7 @@
           <p>
             Punto 1: Operación de dos números
           </p> 
-          <a href="./punto-1">
+          <a href="./Punto-1">
             Punto 1 Demo
           </a>
         </li>
