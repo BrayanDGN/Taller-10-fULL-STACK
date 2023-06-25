@@ -26,7 +26,7 @@
           <p>
             Punto 2: Calculo de Mayoría de Edad
           </p> 
-          <a href="./punto-2">
+          <a href="./Punto-2">
             Punto 2 Demo
           </a>
         </li>
@@ -34,7 +34,7 @@
           <p>
             Punto 3: Paso de datos del usuario
           </p>
-          <a href="./punto-3">
+          <a href="./Punto-3">
             Punto 3 Demo
           </a>
         </li>
@@ -42,7 +42,7 @@
           <p>
             Punto 4: Calculo de Mayoría de Edad con Fechas
           </p>
-          <a href="./punto-4">
+          <a href="./Punto-4">
             Punto 4 Demo
           </a>
         </li>
