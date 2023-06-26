@@ -12,7 +12,10 @@
 <H2>Punto 2:  </H2>
   <h3> 2 - REGISTRO DE EDAD</h3>
     <img src="./Public/images/Point2.png" alt="Age">
-<H2>Punto 3:  </H2>
+<H2>Punto 3: REGISTRO DE USUARIOS  </H2>
+    <img src="./Public/images/Point3.png" alt="Login">
+<H3>Vista punto 3: VISTA DE REGISTRO DE USUARIOS  </H3>
+    <img src="./Public/images/ViewPoint3.png" alt="LoginView">
 <H2>Punto 4:  </H2>
 <H2>Punto 5,6,7:  </H2>
   <h3> 5- BASE DE DATOS</h3>
